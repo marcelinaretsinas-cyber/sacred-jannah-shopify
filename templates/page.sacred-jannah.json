@@ -1,0 +1,104 @@
+{
+  "sections": {
+    "main": {
+      "type": "sacred-jannah",
+      "blocks": {
+        "nav-1": { "type": "nav_link", "settings": { "label": "Home", "url": "/" } },
+        "nav-2": { "type": "nav_link", "settings": { "label": "Bio-Hacking", "url": "#" } },
+        "nav-3": { "type": "nav_link", "settings": { "label": "Program", "url": "#" } },
+        "nav-4": { "type": "nav_link", "settings": { "label": "Registration", "url": "#register" } },
+
+        "spirit-1": { "type": "spiritual_pillar", "settings": { "symbol": "◎", "label": "INNER PEACE" } },
+        "spirit-2": { "type": "spiritual_pillar", "settings": { "symbol": "◈", "label": "CLARITY" } },
+        "spirit-3": { "type": "spiritual_pillar", "settings": { "symbol": "◉", "label": "RENEWAL" } },
+
+        "pillar-1": {
+          "type": "pillar",
+          "settings": {
+            "subtitle": "Cellular Renewal",
+            "title": "Regenesis",
+            "description": "High frequency farm-to-table nutrition, Gold Plasma Elixirs, and Intravenous boosters to support regeneration and restoration of your body and organs, resulting in enhanced energy levels.",
+            "icon_svg": "<svg width='32' height='32' viewBox='0 0 32 32' fill='none'><circle cx='16' cy='16' r='14' stroke='#B8965A' stroke-width='1' stroke-dasharray='3 2'/><path d='M16 6 C10 6 6 10.5 6 16 C6 21.5 10 26 16 26' stroke='#B8965A' stroke-width='1.5' fill='none' stroke-linecap='round'/><path d='M16 6 C22 6 26 10.5 26 16' stroke='#B8965A' stroke-width='1.5' fill='none' stroke-linecap='round'/><circle cx='16' cy='16' r='3' fill='#B8965A' fill-opacity='0.3' stroke='#B8965A' stroke-width='1'/></svg>"
+          }
+        },
+        "pillar-2": {
+          "type": "pillar",
+          "settings": {
+            "subtitle": "Cutting Edge Science",
+            "title": "Bio-Hacking",
+            "description": "Cutting edge science meets regenerative therapies, to optimize your overall wellbeing, prevent dis-ease and enhance longevity.",
+            "icon_svg": "<svg width='32' height='32' viewBox='0 0 32 32' fill='none'><path d='M8 4H24V10L18 16L24 22V28H8V22L14 16L8 10V4Z' stroke='#B8965A' stroke-width='1.2' fill='none' stroke-linejoin='round'/></svg>"
+          }
+        },
+        "pillar-3": {
+          "type": "pillar",
+          "settings": {
+            "subtitle": "Sacred Tradition",
+            "title": "Holistic Healing",
+            "description": "Botanical superfoods, prophetic remedies and Gold Plasma Elixir prepared by herbalist healers boost cellular vitality and elevate the frequency of body, mind and spirit.",
+            "icon_svg": "<svg width='32' height='32' viewBox='0 0 32 32' fill='none'><path d='M16 4 C12 8 10 12 10 16 C10 22 13 28 16 28 C19 28 22 22 22 16 C22 12 20 8 16 4Z' stroke='#B8965A' stroke-width='1.2' fill='none'/><path d='M16 12 L16 22' stroke='#B8965A' stroke-width='1' stroke-linecap='round'/></svg>"
+          }
+        },
+
+        "service-1": {
+          "type": "service",
+          "settings": {
+            "tag": "01",
+            "title": "BIO RESONANCE SCAN",
+            "description": "Comprehensive bio-energetic assessment that evaluates the frequencies of your organs, identifies imbalances, and creates a personalized roadmap for optimal cellular performance."
+          }
+        },
+        "service-2": {
+          "type": "service",
+          "settings": {
+            "tag": "02",
+            "title": "GOLD PLASMA ELIXIR",
+            "description": "Proprietary infusion of monoatomic gold and rare plant compounds — engineered for cellular regeneration, neurological balance, and longevity at the deepest level."
+          }
+        },
+        "service-3": {
+          "type": "service",
+          "settings": {
+            "tag": "03",
+            "title": "LIVE BLOOD ANALYSIS",
+            "description": "Real-time microscopic analysis reveals cellular health, oxygenation, inflammation markers, and gut integrity to guide your personalized protocol."
+          }
+        },
+
+        "marquee-1": { "type": "marquee_item", "settings": { "text": "WHAT IS INCLUDED" } },
+        "marquee-2": { "type": "marquee_item", "settings": { "text": "AIRPORT TRANSFER" } },
+        "marquee-3": { "type": "marquee_item", "settings": { "text": "GOLD PLASMA ELIXIR" } },
+        "marquee-4": { "type": "marquee_item", "settings": { "text": "LIVE BLOOD ANALYSIS" } },
+        "marquee-5": { "type": "marquee_item", "settings": { "text": "BIO RESONANCE SCANS" } },
+        "marquee-6": { "type": "marquee_item", "settings": { "text": "SOUND HEALING" } },
+        "marquee-7": { "type": "marquee_item", "settings": { "text": "FARM-TO-TABLE MEALS" } },
+        "marquee-8": { "type": "marquee_item", "settings": { "text": "PERSONALIZED DETOX" } },
+
+        "inc-1": { "type": "included_item", "settings": { "text": "5 nights private beachfront villa" } },
+        "inc-2": { "type": "included_item", "settings": { "text": "Airport transfers" } },
+        "inc-3": { "type": "included_item", "settings": { "text": "Daily farm-to-table meals" } },
+        "inc-4": { "type": "included_item", "settings": { "text": "Bio Resonance Scan" } },
+        "inc-5": { "type": "included_item", "settings": { "text": "Live Blood Analysis" } },
+        "inc-6": { "type": "included_item", "settings": { "text": "Gold Plasma Elixir" } },
+        "inc-7": { "type": "included_item", "settings": { "text": "IV Boosters" } },
+        "inc-8": { "type": "included_item", "settings": { "text": "Sound healing ceremonies" } },
+        "inc-9": { "type": "included_item", "settings": { "text": "Personalized detox protocol" } },
+        "inc-10": { "type": "included_item", "settings": { "text": "Daily breathwork & meditation" } },
+        "inc-11": { "type": "included_item", "settings": { "text": "Holistic therapies" } }
+      },
+      "block_order": [
+        "nav-1", "nav-2", "nav-3", "nav-4",
+        "spirit-1", "spirit-2", "spirit-3",
+        "pillar-1", "pillar-2", "pillar-3",
+        "service-1", "service-2", "service-3",
+        "marquee-1", "marquee-2", "marquee-3", "marquee-4", "marquee-5", "marquee-6", "marquee-7", "marquee-8",
+        "inc-1", "inc-2", "inc-3", "inc-4", "inc-5", "inc-6", "inc-7", "inc-8", "inc-9", "inc-10", "inc-11"
+      ],
+      "settings": {
+        "hero_image_url": "https://images.squarespace-cdn.com/content/v1/698a7ba6df1f252d9f446ae8/378ea8d3-8c7d-4fec-84af-731fc717d47a/unsplash-image-YQYacLW8o2U.jpg",
+        "location_image_url": "https://images.squarespace-cdn.com/content/v1/698a7ba6df1f252d9f446ae8/d4301fb8-b2b3-41c3-ad45-04d2999b11fe/BchMstPool.jpeg"
+      }
+    }
+  },
+  "order": ["main"]
+}
